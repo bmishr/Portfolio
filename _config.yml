@@ -1,6 +1,17 @@
-title: Bijay Kumar Mishra
+title: <p align="center"> Bijay Mishra </p>
 logo: /assets/img/log.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="#">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/bmishr">GitHub</a>
+  
+  <br>   
+ I am workin as we webdesigner.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
